@@ -1,2 +1,2 @@
 # Observability_TF
-this repo contains monitoring, metrics, alerts for Observability using terraform 
+This repo contains monitoring, metrics, and alerts for all cloud Observability using Terraform 
